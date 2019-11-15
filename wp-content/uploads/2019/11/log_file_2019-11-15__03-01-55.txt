@@ -1,0 +1,25 @@
+
+---Downloaded files---
+The import files for: Import Magazine Newspaper Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/midterm/wordpress-5.3/wordpress
+Data file = C:\xampp\htdocs\midterm\wordpress-5.3\wordpress/wp-content/themes/magazine-newspaper/inc/demo/contents.xml
+Widget file = not defined!
+Customizer file = C:\xampp\htdocs\midterm\wordpress-5.3\wordpress/wp-content/themes/magazine-newspaper/inc/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

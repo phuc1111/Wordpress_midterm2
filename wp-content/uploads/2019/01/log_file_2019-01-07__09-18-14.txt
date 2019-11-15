@@ -1,0 +1,17 @@
+
+---Downloaded files---
+The import files for: Import Magazine Newspaper Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://thebootstrapthemes.com/demo/magazine-newspaper
+Data file = /home/theboots/public_html/demo/magazine-newspaper/wp-content/themes/magazine-newspaper/inc/demo/contents.xml
+Widget file = not defined!
+Customizer file = /home/theboots/public_html/demo/magazine-newspaper/wp-content/themes/magazine-newspaper/inc/demo/customizer.dat
+Redux files:
+not defined!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

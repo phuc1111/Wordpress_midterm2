@@ -1,0 +1,149 @@
+/*
+Theme Name: Quick Reading 02
+Theme URI: https://superbthemes.com/writers-blogily/writers-blogily-info/
+Template: writers-blogily
+Author: ThemeEverest
+Author URI: https://superbthemes.com/
+Description: Quick Reading is your seo friendly &amp; responsive theme made for blogging, newspapers or journalist writing. The code is clean so your website will be quick and load fast with great page speed. The theme is simple to setup but has a lot of features for both affiliate marketing, i.e. lots of advertisement space for affiliate programs such as Google AdSense - of course this kind of website requires a SEO optimized, creative &amp; modern theme which Quick Reading is. Writers is a true multi purpose theme, Beaver Pagebuilder is implemented so you can create your corporate business landing page, an elegant agency one page or a simply photography portfolio. Authors &amp; bloggers can easily create a simple and minimalistic blog and customize it to a niche with the header, so you can write about anything from food, travel, fashion, lifestyle, reviews, products or other entertainment niches. To sum it up the theme is SEO optimised, responsive so it works on tablets, desktop, mobile phones, on every device, such as an Apple or Android. The theme allows you to create a news paper or 1 page / single page, coach, school or education conference website with very low amount of effort required since the design looks beautiful out of box.
+Tags: two-columns,three-columns,right-sidebar,grid-layout,flexible-header,custom-background,custom-colors,custom-header,custom-menu,custom-logo,featured-image-header,featured-images,footer-widgets,theme-options,sticky-post,threaded-comments,translation-ready,blog,entertainment,news
+Version: 1.0.1573786014
+Updated: 2019-11-15 02:46:54
+
+*/
+
+html * {
+    font-family: 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+    -moz-box-shadow: 0 0 0 #fff !important;
+    -webkit-box-shadow: 0 0 0 #fff !important;
+    -o-box-shadow: 0 0 0 #fff !important;
+    box-shadow: 0 0 0 #fff !important;
+}
+body {
+    background-color: #fff;
+}
+hr {
+    margin-bottom: 1.5em;
+    height: 0;
+    height: 1px;
+}
+pre {
+    font-size: 1em;
+    font-size: 15px;
+    font-size: 0.9375rem;
+    font-family: monospace, monospace;
+    font-family: "Courier 10 Pitch", Courier, monospace;
+}
+b, strong {
+    font-weight: bolder;
+}
+button, input, optgroup, select, textarea {
+    font-family: inherit;
+}
+fieldset {
+    padding: 0.35em 0.75em 0.625em;
+}
+h1 {
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-family: 'Merriweather', 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+h2 {
+    font-family: 'Merriweather', 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+h3 {
+    font-family: 'Merriweather', 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+h4 {
+    font-family: 'Merriweather', 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+h5 {
+    font-family: 'Merriweather', 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+h6 {
+    font-family: 'Merriweather', 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+p {
+    margin-bottom: 1.5em;
+    font-size: 15px;
+    line-height: 180%;
+}
+blockquote {
+    margin-bottom: 0;
+    margin-right: 1.5em;
+    margin-left: 1.5em;
+}
+figure {
+    margin: 1em 0;
+}
+table {
+    margin-bottom: 1.5em;
+}
+select {
+    border: 1px solid #ccc;
+}
+.site-title a {
+    color: #dadada;
+}
+.footer-widgets-container h4 {
+    font-family: 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+#secondary h4 {
+    font-family: 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+.post-thumbnail {
+    margin-top: -60px;
+}
+.entry-meta * {
+    font-family: 'Merriweather', 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+.comments-title {
+    font-family: 'Merriweather', 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+.comment-reply-title {
+    font-family: 'Merriweather', 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+.blog main article .entry-meta *, .blog main article .entry-meta, .search-results main article .entry-meta *, .search-results main article .entry-meta, .archive main article .entry-meta, .archive main article .entry-meta * {
+    font-family: 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+.related-posts h3 {
+    font-family: 'Merriweather', 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+.related-posts main {
+    width: 100%;
+}
+.about-the-author h3 {
+    font-family: 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+.owl-item h3 {
+    font-family: 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+.owl-theme .owl-dots .owl-dot span {
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background-color: #fab527;
+}
+.page-template-landing-page-design, .page-template-landing-page-design h1, .page-template-landing-page-design h2, .page-template-landing-page-design h3, .page-template-landing-page-design h4, .page-template-landing-page-design h5, .page-template-landing-page-design h6, .page-template-landing-page-design p, .page-template-landing-page-design li, .page-template-landing-page-design ul, .page-template-landing-page-design ol {
+    font-family: 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+.page-template-landing-page-design .landing-page-description h2 {
+    font-family: 'Lato', helvetica, 'helvetica neue', arial, sans-serif;
+}
+aside#secondary .widget {
+    background-color: #fff;
+    padding: 20px;
+}
+.main-navigation a, #site-navigation span.dashicons.dashicons-menu:before, .iot-menu-left-ul a {
+    color: #f5f7fa;
+}
+.navigation-wrapper, .main-navigation ul ul, #iot-menu-left {
+    background-color: #363636;
+}
+@media print, screen and (min-width: 40em) {
+.grid-container {
+    padding-right: 40px;
+    padding-left: 40px;
+}
+}
